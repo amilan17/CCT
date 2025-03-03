@@ -9,8 +9,7 @@ body:
     id: introduction
     attributes:
       label: Introduction
-      description: Overview description of the amendment(s). Include as much relevant information possible, such as rationale, purpose, and implementation plans. *This field should only be edited by the requestor.*
-      placeholder: Enter summary of request for amendment(s).
+      description: Overview description of the amendment(s). Include as much relevant information possible, such as rationale, purpose, and implementation plans. 
     validations:
       required: true
   - type: textarea
