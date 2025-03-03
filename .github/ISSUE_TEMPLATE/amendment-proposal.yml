@@ -1,11 +1,11 @@
 name: Proposal for an Amendment TEST
 description: Proposal for amendments to WMO Manual on Codes (WMO-No.306), vI.2 that may be submitted for WMO approval with the standard or fast-track approval procedure.
 title: "[Enter table name, number and a very brief description of change]"
-
 body:
   - type: markdown
     attributes:
       value: The content in this issue will be kept up to date during the drafting of the proposal. Please pay attention to accuracy, spelling and grammar as it may be referenced.
+  - type: textarea  
     id: introduction
     attributes:
       label: Introduction
