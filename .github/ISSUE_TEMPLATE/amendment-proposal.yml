@@ -17,7 +17,6 @@ body:
     attributes:
       label: Amendment details 
       description: Tables of the exact changes proposed with minimal descriptive information. This content may evolve as the proposal is finalized. Convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm
-      placeholder: Enter details of amendments requested. 
     validations:
       required: true
   - type: textarea
@@ -25,7 +24,6 @@ body:
     attributes:
       label: Requestor(s)
       description: Individuals, groups, or organizations that are requesting the amendment. Include relevant affiliations and GitHub user names, as applicable.
-      value: "Enter list of requestors."
     validations:
       required: true
   - type: textarea
@@ -33,7 +31,6 @@ body:
     attributes:
       label: Stakeholder(s)
       description: Individuals, groups, or organizations that have an interest or may be impacted by the amendment. Include relevant affiliations and GitHub user names, as applicable.
-      placeholder: Enter stakeholder details.
   - type: dropdown
     attributes:
       label: Expected impact of change
