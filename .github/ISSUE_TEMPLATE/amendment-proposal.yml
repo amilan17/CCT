@@ -48,7 +48,7 @@ body:
   - type: textarea
     attributes:
       label: Data exchange plans
-      description: Describe plans for data exchange associated with the proposal. For example, identify relevant datasets, WMO systems, etc. 
+      description: Describe plans for data exchange associated with the proposal. For example, identify relevant datasets, WMO systems (WIGOS, WIS2, WIPPS), etc. 
   - type: textarea
     attributes:
       label: Comments
