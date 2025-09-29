@@ -1,0 +1,142 @@
+﻿CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID,Status
+,Unidades básicas SI (1),,,,,,,,Operational
+1,,metro,m,m,M,,,,Operational
+2,,kilogramo,kg,kg,KG,,,,Operational
+3,,segundo,s,s,S,,,,Operational
+4,,amperio,A,A,A,,,,Operational
+5,,kelvin,K,K,K,,,,Operational
+6,,mol,mol,mol,MOL,,,,Operational
+7,,candela,cd,cd,CD,,,,Operational
+,Unidades SI suplementarias (1),,,,,,,,Operational
+21,,radián,rad,rad,RAD,,,,Operational
+22,,estereorradián,sr,sr,SR,,,,Operational
+,Unidades SI derivadas con nombres especiales (1),,,,,,,,Operational
+30,,hertzio,Hz,Hz,HZ,,,,Operational
+31,,newton,N,N,N,,,,Operational
+32,,pascal,Pa,Pa,PAL,,,,Operational
+33,,julio,J,J,J,,,,Operational
+34,,vatio,W,W,W,,,,Operational
+35,,culombio,C,C,C,,,,Operational
+36,,voltio,V,V,V,,,,Operational
+37,,faradio,F,F,F,,,,Operational
+38,,ohmio,Ω,Ohm,OHM,,,,Operational
+39,,simensio,S,S,SIE,,,,Operational
+40,,weberio,Wb,Wb,WB,,,,Operational
+41,,tesla,T,T,T,,,,Operational
+42,,henrio,H,H,H,,,,Operational
+60,,grado Celsius,°C,Cel,CEL,,,,Operational
+70,,lumen,lm,lm,LM,,,,Operational
+71,,lux,lx,lx,LX,,,,Operational
+80,,becquerel,Bq,Bq,BQ,,,,Operational
+81,,grey,Gy,Gy,GY,,,,Operational
+82,,sievert,Sv,Sv,SV,,,,Operational
+,Prefijos de unidades SI (1) (3) (4),,,,,,,,Operational
+no,,(yotta),(Y),(Y),(Y),,,,Operational
+no,,(zetta),(Z),(Z),(Z),,,,Operational
+no,,exa,E,E,E,,,,Operational
+no,,peta,P,P,PE,,,,Operational
+no,,tera,T,T,T,,,,Operational
+no,,giga,G,G,G,,,,Operational
+no,,mega,M,M,MA,,,,Operational
+no,,kilo,k,k,K,,,,Operational
+no,,hecto,h,h,H,,,,Operational
+no,,deca,da,da,DA,,,,Operational
+no,,deci,d,d,D,,,,Operational
+no,,centi,c,c,C,,,,Operational
+no,,mili,m,m,M,,,,Operational
+no,,micro,µ,u,U,,,,Operational
+no,,nano,n,n,N,,,,Operational
+no,,pico,p,p,P,,,,Operational
+no,,femto,f,f,F,,,,Operational
+no,,atto,a,a,A,,,,Operational
+no,,(zepto),(z),(z),,,,,Operational
+no,,(yocto),(y),(y),,,,,Operational
+,Otras unidades no SI reconocidas por la CGPM (4),,,,,,,,Operational
+110,,grado (ángulo),º,deg,DEG,,,,Operational
+111,,minuto (ángulo),‘,‘,MNT,,,,Operational
+112,,segundo (ángulo),“,“,SEC,,,,Operational
+120,,litro,l o L,l o L,L,,,,Operational
+130,,minuto (tiempo),min,min,MIN,,,,Operational
+131,,hora,h,h,HR,,,,Operational
+132,,día,d,d,D,,,,Operational
+150,,tonelada,t,t,TNE,,,,Operational
+160,,electronvoltio,eV,eV,EV,,,,Operational
+161,,unidad de masa atómica,u,u,U,,,,Operational
+170,,unidad astronómica,AU,AU,ASU,,,,Operational
+171,,parsec,pc,pc,PRS,,,,Operational
+,Unidades no SI toleradas por ser de uso extendido,,,,,,,,Operational
+200,,milla náutica,,,,,,,Operational
+201,,nudo,kt,kt,KT,,,,Operational
+210,,decibelio (6),dB,dB,DB,,,,Operational
+220,,hectárea,ha,ha,HAR,,,,Operational
+230,,semana,,,,,,,Operational
+231,,año,a,a,ANN,,,,Operational
+,Otras unidades utilizadas por la OMM (7),,,,,,,,Operational
+300,,por ciento,%,%,PERCENT,,,,Operational
+301,,partes por millar,‰,0/00,PERTHOU,,,,Operational
+310,,octavos de nube,octa,okta,OKTA,,,,Operational
+320,,grados verdaderos,°,deg,DEG,,,,Operational
+321,,grados por segundo,grado/s,deg/s,DEG/S,,,,Operational
+350,,grados Celsius (8),°C,C,C,,,,Operational
+351,,grados Celsius por metro,°C/m,C/m,C/M,,,,Operational
+352,,grados Celsius por 100 metros,°C/100 m,C/100 m,C/100 M,,,,Operational
+360,,Unidad Dobson (9),DU,DU,DU,,,,Operational
+430,,mes,mon,mon,MON,,,,Operational
+441,,por segundo (idéntica al hertzio),s–1,/s,/S,,,,Operational
+442,,por segundo al cuadrado,s–2,s–2,,,,,Operational
+501,,nudos por 1 000 metros,kt/1000 m,kt/km,KT/KM,,,,Operational
+510,,pie,ft,ft,FT,,,,Operational
+511,,pulgada,in,in,IN,,,,Operational
+520,,decipascales por segundo (microbares por segundo),dPa s–1,dPa/s,DPAL/S,,,,Operational
+521,,centibares por segundo,cb s–1,cb/s,CB/S,,,,Operational
+522,,centibares por 12 horas,cb/12 h,cb/12 h,CB/12 HR,,,,Operational
+523,,decapascal,daPa,daPa,DAPAL,,,,Operational
+530,,hectopascal,hPa,hPa,HPAL,,,,Operational
+531,,hectopascales por segundo,hPa s–1,hPa/s,HPAL/S,,,,Operational
+532,,hectopascales por hora,hPa h–1,hPa/h,HPAL/HR,,,,Operational
+533,,hectopascales por 3 horas,hPa/3 h,hPa/3 h,HPAL/3 HR,,,,Operational
+535,,nanobar = hPa 10–6,nbar,nbar,NBAR,,,,Operational
+620,,gramos por kilogramo,g kg–1,g/kg,G/KG,,,,Operational
+622,,"segundo
+kilogramos por kilogramo",kg kg–1,kg/kg,KG/KG,,,,Operational
+623,,kilogramos por kilogramo por segundo,kg kg–1 s–1,kg kg–1 s–1,,,,,Operational
+624,,kilogramos por metro cuadrado,kg m–2,kg m–2,,,,,Operational
+630,,aceleración de la gravedad,g,g,,,,,Operational
+631,,metro geopotencial,mgp,gpm,,,,,Operational
+710,,milímetro,mm,mm,MM,,,,Operational
+711,,milímetros por segundo,mm s–1,mm/s,MM/S,,,,Operational
+712,,milímetros por hora,mm h–1,mm/h,MM/HR,,,,Operational
+713,,milímetros a la sexta potencia por  metro cúbico,mm6 m–3,mm6 m–3,,,,,Operational
+715,,centímetro,cm,cm,CM,,,,Operational
+716,,centímetros por segundo,cm s–1,cm/s,CM/S,,,,Operational
+717,,centímetros por hora,cm h–1,cm/h,CM/HR,,,,Operational
+720,,decímetro,dm,dm,DM,,,,Operational
+740,,kilómetro,km,km,KM,,,,Operational
+741,,kilómetros por hora,km h–2,km/h,KM/HR,,,,Operational
+742,,kilómetros por día,km/d,km/d,KM/D,,,,Operational
+750,,becquereles por litro,Bq l–1,Bq/l,BQ/L,,,,Operational
+751,,becquereles por metro cuadrado,Bq m–2,Bq m–2,BQ/M2,,,,Operational
+752,,becquereles por metro cúbico,Bq m–3,Bq m–3,BQ/M3,,,,Operational
+753,,milisievert,mSv,mSv,MSV,,,,Operational
+810,,vatios por metro por estereorradián,,,,,,,Operational
+811,,vatios por metro cuadrado,,,,,,,Operational
+812,,vatios por metro cuadrado por estereorradián,,,,,,,Operational
+813,,vatios por metro cuadrado por estereorradián por centímetro,,,,,,,Operational
+814,,vatios por metro cuadrado por estereorradián por metro,,,,,,,Operational
+815,,vatios por metro cúbico por estereorradián,,,,,,,Operational
+820,,simensio por metro,,,,,,,Operational
+825,,grados al cuadrado,grado–2,deg2,,,,,Operational
+800,,pascales por segundo,Pa s–1,Pa/s,,,,,Operational
+801,,kilopascal,kPa,kPa,,,,,Operational
+810,,vatios por metro por estereorradián,,,,,,,Operational
+811,,vatios por metro cuadrado,,,,,,,Operational
+812,,vatios por metro cuadrado por estereorradián,,,,,,,Operational
+813,,vatios por metro cuadrado por estereorradián por centímetro,,,,,,,Operational
+814,,vatios por metro cuadrado por estereorradián por metro,,,,,,,Operational
+815,,vatios por metro cúbico por estereorradián,,,,,,,Operational
+820,,simensio por metro,,,,,,,Operational
+825,,grados al cuadrado,grado2,deg2,,,,,Operational
+830,,becquereles por segundo por metro cúbico,Bq s m–3,Bq s m–3,,,,,Operational
+835,,decibelios por metro,dB m–1,dB/m,,,,,Operational
+836,,decibelios por grado,dB grado–1,dB/deg,,,,,Operational
+841,,unidades pH,unidad pH,unidad pH,,,,,Operational
