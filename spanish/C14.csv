@@ -1,4 +1,56 @@
 ﻿CodeFigure,Meaning_es,ChemicalFormula,Status
+0,Ozono,O3,Operational
+1,Vapor de agua,H2O,Operational
+2,Metano,CH4,Operational
+3,Dióxido de carbono,CO2,Operational
+4,Monóxido de carbono,CO,Operational
+5,Dióxido de nitrógeno,NO2,Operational
+6,Monóxido de nitrógeno,N2O,Operational
+7,Formaldehído,HCHO,Operational
+8,Dióxido de azufre,SO2,Operational
+9,Amoníaco,NH3,Operational
+10,Catión de amonio,NH4+,Operational
+11,Monóxido de nitrógeno,NO,Operational
+12,Oxígeno atómico,O,Operational
+13,Radical nitrato,NO3•,Operational
+14,Radical hidroperoxilo,HOO•,Operational
+15,Pentóxido de dinitrógeno,N2O5,Operational
+16,Ácido nitroso,HONO,Operational
+17,Ácido nítrico,HNO3,Operational
+18,Ácido peroxinítrico,HO2NO2,Operational
+19,Peróxido de hidrógeno,H2O2,Operational
+20,Dihidrógeno,H2,Operational
+21,Nitrógeno atómico,N,Operational
+22,Anión de sulfato,SO42-,Operational
+23,Radón atómico,Rn,Operational
+24,Vapor de mercurio,Hg(0),Operational
+25,Catión de mercurio II,Hg2+,Operational
+26,Cloro atómico,Cl,Operational
+27,Monóxido de cloro,ClO,Operational
+28,Peróxido de dicloruro,Cl2O2,Operational
+29,Ácido hipocloroso,HClO,Operational
+30,Nitrato de cloro,ClONO2,Operational
+31,Dióxido de cloro,ClO2,Operational
+32,Bromo atómico,Br,Operational
+33,Monóxido de bromo,BrO,Operational
+34,Cloruro de bromo,BrCl,Operational
+35,Bromuro de hidrógeno,BrH,Operational
+36,Ácido hipobromoso,BrOH,Operational
+37,Nitrato de bromo,BrONO2,Operational
+38,Dioxígeno,O2,Operational
+39,Cloruro de nitrilo,NO2Cl,Operational
+40,Ácido sulfúrico,H2SO4,Operational
+41,Sulfuro de hidrógeno,H2S,Operational
+42,Trióxido de azufre,SO3,Operational
+43,Bromo,Br2,Operational
+44,Ácido fluorhídrico,HF,Operational
+45,Hexafluoruro de azufre,SF6,Operational
+46,Cloro,Cl2,Operational
+47-9999,Reservadas,,Operational
+10000,Radical hidroxilo,OH•,Operational
+10001,Radical peroximetilo,CH3OO•,Operational
+10002,Hiperóxido metilo,CH3O2H,Operational
+10004,Metanol,CH3OH,Operational
 10005,Ácido fórmico,CH3 OOH,Operational
 10006,Cianuro de hidrógeno,CNH,Operational
 10007,Acetonitrilo,CH3 CN,Operational
@@ -50,12 +102,11 @@
 10053,Radical 3-hidroxipropildioxidanilo,HOCH2 CH2 CH2 OO•,Operational
 10054,Hidroperóxido de 3-hidroxipropilo,HOCH2 CH2 CH2 OOH,Operational
 10055,Metil peroxinitrato nitrato (nitroperoxi)metano,CH3 OONO2,Operational
-10056,2-λ1-oxidaniloxi-2-metilbut-3-en-1-ol  (radical 4-hidroxi-3-metilbut-1-en-3-ilperoxi),HOCH2 C(CH3 )(OO•)CHCH2,Operational
+10056,2-λ1-oxidaniloxi-2-metilbut-3-en-1-ol (radical 4-hidroxi-3-metilbut-1-en-3-ilperoxi),HOCH2 C(CH3 )(OO•)CHCH2,Operational
 10057,2-λ1-oxidaniloxi-3-metilbut-3-en-1-ol (radical 2-hidroxi-1-isopropeniletilperoxi),HOCH2 CH(OO•)C(CH3 )CH2,Operational
 10058,(Z)-4-hidroperoxi-2-metil-2-butenal,CH2 (OOH)CHC(CH3 )CHO,Operational
 10059,(Z)-4-hidroperoxi-3-metil-2-butenal,CH2 (OOH)C(CH3 )CHCHO,Operational
-10060–10499,"Reservadas para otras moléculas orgánicas simples
-(por ejemplo, aldehídos superiores, alcoholes, peróxidos, etc.)",,Operational
+10060–10499,"Reservadas para otras moléculas orgánicas simples (por ejemplo, aldehídos superiores, alcoholes, peróxidos, etc.)",,Operational
 10500,Sulfuro de dimetilo,CH3 SCH3 (DMS),Operational
 10501,DMSO (sulfóxido de dimetilo),(CH3 )2 SO,Operational
 10502–20000,Reservadas,,Operational
@@ -373,14 +424,14 @@
 30296,Plomo,Pb,Operational
 30297–39999,Reservadas,,Operational
 40000,Oxígeno singlete sigma (dioxígeno (singlete sigma)),O2 (1Σ+g),Operational
-40001,Oxígeno singlete delta (dioxígeno (singlete delta)),O2  (1Δg),Operational
+40001,Oxígeno singlete delta (dioxígeno (singlete delta)),O2 (1Δg),Operational
 40002,Átomo de oxígeno en estado excitado singlete,O(1D),Operational
 40003,Átomo de oxígeno en estado fundamental triplete,O(3P),Operational
 40004-59999,Reservadas,,Operational
 60000,Radical HOx (OH+HO2 ),HOx •,Operational
 60001,Radicales peroxilos orgánicos e inorgánicos totales (HO2 • + RO2 •),ROO•,Operational
 60002,Ozono pasivo,,Operational
-60003,NOx  expresado en términos de nitrógeno,NOx,Operational
+60003,NOx expresado en términos de nitrógeno,NOx,Operational
 60004,Todos los óxidos de nitrógeno (NOy) expresados en términos Todos los óxidos de nitrógeno (NOy ) expresados en términos de nitrógeno,NOy,Operational
 60005,Cloro inorgánico total,Clx,Operational
 60006,Bromo inorgánico total,Brx,Operational
@@ -413,7 +464,6 @@
 60033–61999,Reservadas,,Operational
 62000,Aerosol total,,Operational
 62001,Polvo seco,,Operational
-Cifra de clave,Significado,Fórmula química clave,Operational
 62002,Agua ambiental,,Operational
 62003,Amonio seco,,Operational
 62004,Nitrato seco,,Operational
@@ -473,4 +523,5 @@ Cifra de clave,Significado,Fórmula química clave,Operational
 62206–62299,Reservadas,,Operational
 62300,Polen de Poaceae (gramíneas),,Operational
 62301-62999,Reservadas,,Operational
-,,,Operational
+63000-65534,Para uso experimental a nivel local,,Operational
+65535,Valor faltante,,Operational
