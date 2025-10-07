@@ -1,25 +1,26 @@
 ﻿CodeFigureForsasa,CodeFigureForBUFR,TrackingTechniquesStatusOfSystemUsed_es,Status
-0,0,Ausencia de medición del viento,Operational
-1,1,Automático con goniómetro auxiliar óptico,Operational
-2,2,Automático con radiogoniómetro auxiliar,Operational
-3,3,Automático con telemetría auxiliar,Operational
-4,4,No utilizada,Operational
-5,5,Automático con señales múltiples VLF-Omega,Operational
-6,6,Automático Loran C de cadena cruzada,Operational
-7,7,Automático con perfilador del viento auxiliar,Operational
-8,8,Ubicación automática por satélite,Operational
+00,0,Ausencia de medición del viento,Operational
+01,1,Automático con goniómetro auxiliar óptico,Operational
+02,2,Automático con radiogoniómetro auxiliar,Operational
+03,3,Automático con telemetría auxiliar,Operational
+04,4,No utilizada,Operational
+05,5,Automático con señales múltiples VLF-Omega,Operational
+06,6,Automático Loran C de cadena cruzada,Operational
+07,7,Automático con perfilador del viento auxiliar,Operational
+08,8,Ubicación automática por satélite,Operational
 09–18,9–18,Reservadas,Operational
 19,19,Técnica de seguimiento no especificada,Operational
-20,20,"TÉCNICA DE SEGUIMIENTO/ESTADO DEL SISTEMA ASAP SITUACIÓN DEL SISTEMA DE LOS BUQUES
-Barco detenido",Operational
+,,TÉCNICA DE SEGUIMIENTO/ESTADO DEL SISTEMA ASAP,Operational 
+,,SITUACIÓN DEL SISTEMA DE LOS BUQUES,Operational
+20,20,Barco detenido,Operational
 21,21,Barco desviado de su destino original,Operational
 22,22,Llegada retrasada del barco,Operational
 23,23,Falla del contenedor,Operational
 24,24,Falla de alimentación del contenedor,Operational
-24–28,25–28,Reservadas para uso futuro,Operational
+25–28,25–28,Reservadas para uso futuro,Operational
 29,29,Otros problemas,Operational
-30,30,"SISTEMA DE SONDEO
-Problemas graves de alimentación",Operational
+,,SISTEMA DE SONDEO,Operational
+30,30,Problemas graves de alimentación",Operational
 31,31,UPS no operativo,Operational
 32,32,Problemas físicos en el receptor,Operational
 33,33,Problemas de software en el receptor,Operational
@@ -29,8 +30,8 @@ Problemas graves de alimentación",Operational
 37,37,Escasez de gas de sustentación,Operational
 38,38,Reservada,Operational
 39,39,Otros problemas,Operational
-40,40,"EQUIPO DE LANZAMIENTO DEL GLOBO
-Defecto mecánico",Operational
+,,EQUIPO DE LANZAMIENTO DEL GLOBO,Operational
+40,40,"Defecto mecánico",Operational
 41,41,Defecto material (lanzamiento manual),Operational
 42,42,Falla de alimentación,Operational
 43,43,Falla de control,Operational
@@ -40,15 +41,15 @@ Defecto mecánico",Operational
 47,47,Problemas en el globo,Operational
 48,48,Problemas en el lanzamiento del globo,Operational
 49,49,Daños en el lanzador,Operational
-50,50,"SISTEMA DE ACOPIO DE DATOS
-Defecto en la antena del receptor R/S",Operational
+,,SISTEMA DE ACOPIO DE DATOS",Operational
+50,50,Defecto en la antena del receptor R/S",Operational
 51,51,Defecto en la antena NAVAID,Operational
 52,52,Defecto en los cables (antena) del receptor R/S,Operational
 53,53,Defecto en los cables de la antena NAVAID,Operational
 54–58,54–58,Reservadas,Operational
 59,59,Otros problemas,Operational
-60,60,"COMUNICACIONES
-Defecto en la comunicación ASAP",Operational
+,,COMUNICACIONES,Operational
+60,60,Defecto en la comunicación ASAP,Operational
 61,61,Datos rechazados por las instalaciones de comunicación,Operational
 62,62,Antena de transmisión sin energía,Operational
 63,63,Cable de la antena roto,Operational

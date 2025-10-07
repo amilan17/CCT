@@ -1,17 +1,17 @@
 ﻿CodeFigureForIXIIXIX,CodeFigureForBUFR,InstrumentMakeAndType_es,EquationCoefficients_a,EquationCoefficients_b,Status
-1,1,Sippican T-4,6.472,–2.16,Operational
-2,2,Sippican T-4,6.691,–2.25,Operational
-11,11,Sippican T-5,6.828,–1.82,Operational
-21,21,Sippican Fast Deep,6.346,–1.82,Operational
-31,31,Sippican T-6,6.472,–2.16,Operational
-32,32,Sippican T-6,6.691,–2.25,Operational
-41,41,Sippican T-7,6.472,–2.16,Operational
-42,42,Sippican T-7,6.691,–2.25,Operational
-51,51,Sippican Deep Blue,6.472,–2.16,Operational
-52,52,Sippican Deep Blue,6.691,–2.25,Operational
-61,61,Sippican T-10,6.301,–2.16,Operational
-71,71,Sippican T-11,1.7779,–0.255,Operational
-81,81,Sippican AXBT (sondas de 300 m),1.52,0,Operational
+001,1,Sippican T-4,6.472,–2.16,Operational
+002,2,Sippican T-4,6.691,–2.25,Operational
+011,11,Sippican T-5,6.828,–1.82,Operational
+021,21,Sippican Fast Deep,6.346,–1.82,Operational
+031,31,Sippican T-6,6.472,–2.16,Operational
+032,32,Sippican T-6,6.691,–2.25,Operational
+041,41,Sippican T-7,6.472,–2.16,Operational
+042,42,Sippican T-7,6.691,–2.25,Operational
+051,51,Sippican Deep Blue,6.472,–2.16,Operational
+052,52,Sippican Deep Blue,6.691,–2.25,Operational
+061,61,Sippican T-10,6.301,–2.16,Operational
+071,71,Sippican T-11,1.7779,–0.255,Operational
+081,81,Sippican AXBT (sondas de 300 m),1.52,0,Operational
 201,201,TSK T-4,6.472,–2.16,Operational
 202,202,TSK T-4,6.691,–2.25,Operational
 211,211,TSK T-6,6.472,–2.16,Operational

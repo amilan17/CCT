@@ -166,7 +166,6 @@
 00158,158,República Dominicana (CMN),Operational
 00159,159,El Salvador (CMN),Operational
 00160,160,NOAA/NESDIS (EE.UU.),Operational
-I.2 – Tab Co/11 — 4,,,Operational
 00161,161,Oficina de Investigación Oceánica y Atmosférica de la NOAA (EE.UU.),Operational
 00162,162,Guatemala (CMN),Operational
 00163,163,Haití (CMN),Operational
@@ -185,8 +184,8 @@ I.2 – Tab Co/11 — 4,,,Operational
 00176,176,Instituto Cooperativo de Estudios Meteorológicos Satelitales (CIMSS) (EE.UU.),Operational
 00177,177,Servicio Oceánico Nacional de la NOAA (EE.UU.),Operational
 00178,178,"Spire Global, Inc.",Operational
-179,179,"GeoOptics, Inc.",Operational
-180,180,PlanetiQ,Operational
+00179,179,"GeoOptics, Inc.",Operational
+00180,180,PlanetiQ,Operational
 00181–00189,181–189,Reservadas para otros centros,Operational
 00190,190,Islas Cook (CMN),Operational
 00191,191,Polinesia Francesa (CMN),Operational
