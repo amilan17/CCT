@@ -1,55 +1,60 @@
 ﻿CodeFigureForF1F2,CodeFigureForF3F3F3,Octet5GRIB1_Octet6BUFR3,OriginatingGeneratingCentres_fr,Status
 00,000,0,Secrétariat de l'OMM,Operational
+,,,01-09: CMM,Operational
 01,001,1,Melbourne,Operational
 02,002,2,Melbourne,Operational
-03,003,3,Melbourne,Operational
+03,003,3,),Operational
 04,004,4,Moscou,Operational
 05,005,5,Moscou,Operational
-06,006,6,Moscou,Operational
+06,006,6,),Operational
 07,007,7,Service météorologique national des États-Unis d'Amérique - Centres nationaux de prévision environnementale (NCEP),Operational
 08,008,8,Centre de transit international du Service météorologique national des États-Unis d'Amérique (NWSTG),Operational
 09,009,9,Service météorologique national des États-Unis d'Amérique - Autres,Operational
+,,,10-25: Centres dans la Région I,Operational
 10,010,10,Le Caire (CMRS),Operational
-11,011,11,Le Caire (CMRS),Operational
+11,011,11,),Operational
 12,012,12,Dakar (CMRS),Operational
-13,013,13,Dakar (CMRS),Operational
+13,013,13,),Operational
 14,014,14,Nairobi (CMRS),Operational
-15,015,15,Nairobi (CMRS),Operational
+15,015,15,),Operational
 16,016,16,Casablanca (CMRS),Operational
 17,017,17,Tunis (CMRS),Operational
 18,018,18,Tunis-Casablanca (CMRS),Operational
-19,019,19,Tunis-Casablanca (CMRS),Operational
+19,019,19,),Operational
 20,020,20,Las Palmas,Operational
 21,021,21,Alger (CMRS),Operational
 22,022,22,ACMAD,Operational
 23,023,23,Mozambique (CMN),Operational
 24,024,24,Pretoria (CMRS),Operational
 25,025,25,La Réunion (CMRS),Operational
+,,,26-40: Centres dans la Région II,Operational
 26,026,26,Khabarovsk (CMRS),Operational
-27,027,27,Khabarovsk (CMRS),Operational
+27,027,27,),Operational
 28,028,28,New Delhi (CMRS),Operational
-29,029,29,New Delhi (CMRS),Operational
+29,029,29,),Operational
 30,030,30,Novosibirsk (CMRS),Operational
-31,031,31,Novosibirsk (CMRS),Operational
+31,031,31,),Operational
 32,032,32,Tachkent (CMRS),Operational
 33,033,33,Djedda (CMRS),Operational
 34,034,34,"Tokyo (CMRS), Service météorologique japonais",Operational
-35,035,35,"Tokyo (CMRS), Service météorologique japonais",Operational
+35,035,35,),Operational
 36,036,36,Bangkok,Operational
 37,037,37,Oulan-Bator,Operational
 38,038,38,Beijing (CMRS),Operational
-39,039,39,Beijing (CMRS),Operational
+39,039,39,),Operational
 40,040,40,Séoul,Operational
+,,,41-50: Centres dans la Région III,Operational
 41,041,41,Buenos Aires (CMRS),Operational
-42,042,42,Buenos Aires (CMRS),Operational
+42,042,42,),Operational
 43,043,43,Brasilia (CMRS),Operational
-44,044,44,Brasilia (CMRS),Operational
+44,044,44,),Operational
 45,045,45,Santiago,Operational
 46,046,46,Agence spatiale brésilienne – INPE,Operational
 47,047,47,Colombie (CMN),Operational
 48,048,48,Équateur (CMN),Operational
 49,049,49,Pérou (CMN),Operational
 50,050,50,Venezuela (République bolivarienne du) (CMN),Operational
+,,,51-63: Centres dans la Région IV,Operational
 51,051,51,Miami (CMRS),Operational
 52,052,52,"Miami (CMRS), Centre national pour les ouragans",Operational
 53,053,53,Centre de surveillance (SMC),Operational
@@ -65,24 +70,25 @@
 63,063,63,Institut international de recherche sur le climat et la société (IRI),Operational
 64,064,64,Honolulu (CMRS),Operational
 65,065,65,Darwin (CMRS),Operational
-66,066,66,Darwin (CMRS),Operational
+66,066,66,),Operational
 67,067,67,Melbourne (CMRS),Operational
 68,068,68,En réserve,Operational
 69,069,69,Wellington (CMRS),Operational
-70,070,70,Wellington (CMRS),Operational
+70,070,70,),Operational
 71,071,71,Nandi (CMRS),Operational
 72,072,72,Singapour,Operational
 73,073,73,Malaisie (CMN),Operational
+,,,74-99: Centres dans la Région VI,Operational
 74,074,74,"Service météorologique du Royaume-Uni, Exeter (CMRS)",Operational
-75,075,75,"Service météorologique du Royaume-Uni, Exeter (CMRS)",Operational
+75,075,75,),Operational
 76,076,76,Moscou (CMRS),Operational
 77,077,77,En réserve,Operational
 78,078,78,Offenbach (CMRS),Operational
-79,079,79,Offenbach (CMRS),Operational
+79,079,79,),Operational
 80,080,80,Rome (CMRS),Operational
-81,081,81,Rome (CMRS),Operational
+81,081,81,),Operational
 82,082,82,Norrköping,Operational
-83,083,83,Norrköping,Operational
+83,083,83,),Operational
 84,084,84,Toulouse (CMRS),Operational
 85,085,85,Toulouse (CMRS),Operational
 86,086,86,Helsinki,Operational
@@ -99,6 +105,7 @@
 97,097,97,Agence spatiale européenne (ESA),Operational
 98,098,98,Centre européen pour les prévisions météorologiques à moyen terme (CEPMMT) (CMRS),Operational
 99,099,99,De Bilt,Operational
+,,,Centres supplémentaires,Operational
 Sans objet,100,100,Brazzaville,Operational
 Sans objet,101,101,Abidjan,Operational
 Sans objet,102,102,Libye (CMN),Operational
@@ -136,9 +143,7 @@ Sans objet,133,133,Turkménistan (CMN),Operational
 Sans objet,134,134,Émirats arabes unis (CMN),Operational
 Sans objet,135,135,Ouzbékistan (CMN),Operational
 Sans objet,136,136,Viet Nam (CMN),Operational
-Sans objet,137,137,En réserve pour d'autres centres,Operational
-Sans objet,138,138,En réserve pour d'autres centres,Operational
-Sans objet,139,139,En réserve pour d'autres centres,Operational
+Sans objet,137-139,137-139,En réserve pour d'autres centres,Operational
 Sans objet,140,140,Bolivie (État plurinational de) (CMN),Operational
 Sans objet,141,141,Guyana (CMN),Operational
 Sans objet,142,142,Paraguay (CMN),Operational
@@ -178,17 +183,7 @@ Sans objet,175,175,Corporation universitaire pour la recherche atmosphérique �
 Sans objet,176,176,Institut coopératif des États-Unis d'Amérique pour les études de satellites météorologiques (CIMSS),Operational
 Sans objet,177,177,National Ocean Service de la NOAA (États-Unis d'Amérique),Operational
 Sans objet,178,178,"Spire Global, Inc.",Operational
-Sans objet,179,179,En réserve pour d'autres centres,Operational
-Sans objet,180,180,En réserve pour d'autres centres,Operational
-Sans objet,181,181,En réserve pour d'autres centres,Operational
-Sans objet,182,182,En réserve pour d'autres centres,Operational
-Sans objet,183,183,En réserve pour d'autres centres,Operational
-Sans objet,184,184,En réserve pour d'autres centres,Operational
-Sans objet,185,185,En réserve pour d'autres centres,Operational
-Sans objet,186,186,En réserve pour d'autres centres,Operational
-Sans objet,187,187,En réserve pour d'autres centres,Operational
-Sans objet,188,188,En réserve pour d'autres centres,Operational
-Sans objet,189,189,En réserve pour d'autres centres,Operational
+Sans objet,179-189,179-189,En réserve pour d'autres centres,Operational
 Sans objet,190,190,Îles Cook (CMN),Operational
 Sans objet,191,191,Polynésie française (CMN),Operational
 Sans objet,192,192,Tonga (CMN),Operational
@@ -204,11 +199,7 @@ Sans objet,201,201,Philippines (CMN),Operational
 Sans objet,202,202,Samoa (CMN),Operational
 Sans objet,203,203,Îles Salomon (CMN),Operational
 Sans objet,204,204,National Institute of Water and Atmospheric Research (NIWA) – Nouvelle-Zélande,Operational
-Sans objet,205,205,En réserve,Operational
-Sans objet,206,206,En réserve,Operational
-Sans objet,207,207,En réserve,Operational
-Sans objet,208,208,En réserve,Operational
-Sans objet,209,209,En réserve,Operational
+Sans objet,205-209,205-209,En réserve,Operational
 Sans objet,210,210,Frascati (ESA/ESRIN),Operational
 Sans objet,211,211,Lannion,Operational
 Sans objet,212,212,Lisbonne,Operational

@@ -10,6 +10,8 @@
 08,8,Localisation automatique par satellite,Operational
 09-18,9-18,En réserve,Operational
 19,19,Technique de poursuite non spécifiée,Operational
+,,TECHNIQUE DE POURSUITE/éTAT DU SYSTÈME ASAP,Operational
+,,INFORMATIONS CONCERNANT LE NAVIRE,Operational
 20,20,Navire arrêté,Operational
 21,21,Navire détourné de sa destination d'origine,Operational
 22,22,Arrivée du navire retardée,Operational
@@ -17,6 +19,7 @@
 24,24,Panne d'alimentation du conteneur,Operational
 25-28,25-28,En réserve pour utilisation future,Operational
 29,29,Autres problèmes,Operational
+,,SYSTÈME DE SONDAGE,Operational
 30,30,Graves problèmes d'alimentation,Operational
 31,31,Non fonctionnement de l'unité d'alimentation sans coupure,Operational
 32,32,Problèmes matériels du récepteur,Operational
@@ -27,6 +30,7 @@
 37,37,Pénurie de gaz de sustentation,Operational
 38,38,En réserve,Operational
 39,39,Autres problèmes,Operational
+,,DISPOSITIF DE LâCHER DE BALLON,Operational
 40,40,Défaut mécanique,Operational
 41,41,Défaut matériel (dispositif de lâcher manuel),Operational
 42,42,Panne d'alimentation,Operational
@@ -37,12 +41,14 @@
 47,47,Problèmes de ballon,Operational
 48,48,Problèmes de lâcher de ballon,Operational
 49,49,Dispositif de lâcher endommagé,Operational
+,,SYSTÈME D’ACQUISITION DE DONNéES,Operational
 50,50,Défaut de l'antenne du récepteur de la radiosonde,Operational
 51,51,Défaut de l'antenne du système NAVAID,Operational
 52,52,Défaut de câblage (de l'antenne) du récepteur de la radiosonde,Operational
 53,53,Défaut de câblage de l'antenne du système NAVAID,Operational
 54-58,54-58,En réserve,Operational
 59,59,Autres problèmes,Operational
+,,TRANSMISSIONS,Operational
 60,60,Transmissions défectueuses du système ASAP,Operational
 61,61,Données rejetées par les installations de télécommunication,Operational
 62,62,Pas d'énergie à l'antenne d'émission,Operational

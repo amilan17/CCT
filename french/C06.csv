@@ -27,26 +27,6 @@
 080,,becquerel,Bq,Bq,BQ,s-1,,,Operational
 081,,grey,Gy,Gy,GY,m² s-2,,,Operational
 082,,sievert,Sv,Sv,SV,m² s-2,,,Operational
-Aucun,,(yotta),(Y),(Y),(Y),,,,Operational
-Aucun,,(zetta),(Z),(Z),(Z),,,,Operational
-Aucun,,exa,E,E,E,,,,Operational
-Aucun,,peta,P,P,PE,,,,Operational
-Aucun,,téra,T,T,T,,,,Operational
-Aucun,,giga,G,G,G,,,,Operational
-Aucun,,méga,M,M,MA,,,,Operational
-Aucun,,kilo,k,k,K,,,,Operational
-Aucun,,hecto,h,h,H,,,,Operational
-Aucun,,déca,da,da,DA,,,,Operational
-Aucun,,déci,d,d,D,,,,Operational
-Aucun,,centi,c,c,C,,,,Operational
-Aucun,,milli,m,m,M,,,,Operational
-Aucun,,micro,μ,u,U,,,,Operational
-Aucun,,nano,n,n,N,,,,Operational
-Aucun,,pico,p,p,P,,,,Operational
-Aucun,,femto,f,f,F,,,,Operational
-Aucun,,atto,a,a,A,,,,Operational
-Aucun,,(zepto),(z),(z),,,,,Operational
-Aucun,,(yocto),(y),(y),,,,,Operational
 110,,degré (angle),°,deg,DEG,,,,Operational
 111,,minute (angle),',,MNT,,,,Operational
 112,,seconde (angle),"""","""",SEC,,,,Operational
@@ -159,3 +139,23 @@ Aucun,,(yocto),(y),(y),,,,,Operational
 842,,unité N,unité N,N units,,,,,Operational
 843,,Unité de turbidité néphélométrique,UTN,UTN,,,,,Operational
 844,,Unité de contenu total d'électrons,TECU,TECU,TECU,1016 électrons m-2,,,Operational
+na1,,(yotta),(Y),(Y),(Y),,,,Operational
+na2,,(zetta),(Z),(Z),(Z),,,,Operational
+na3,,exa,E,E,E,,,,Operational
+na4,,peta,P,P,PE,,,,Operational
+na5,,téra,T,T,T,,,,Operational
+na6,,giga,G,G,G,,,,Operational
+na7,,méga,M,M,MA,,,,Operational
+na8,,kilo,k,k,K,,,,Operational
+na9,,hecto,h,h,H,,,,Operational
+na10,,déca,da,da,DA,,,,Operational
+na11,,déci,d,d,D,,,,Operational
+na12,,centi,c,c,C,,,,Operational
+na13,,milli,m,m,M,,,,Operational
+na14,,micro,μ,u,U,,,,Operational
+na15,,nano,n,n,N,,,,Operational
+na16,,pico,p,p,P,,,,Operational
+na17,,femto,f,f,F,,,,Operational
+na18,,atto,a,a,A,,,,Operational
+na19,,(zepto),(z),(z),,,,,Operational
+na20,,(yocto),(y),(y),,,,,Operational
